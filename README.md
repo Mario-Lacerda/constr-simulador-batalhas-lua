@@ -1,7 +1,12 @@
-Desafio Dio - Construindo um Simulador de Batalhas com Lua
-Projeto em Lua: Simulador de Batalhas
+# Desafio Dio - Construindo um Simulador de Batalhas com Lua
+
+
+
+### **Projeto em Lua: Simulador de Batalhas**
+
 lua
 
+```lua
 -- Classe Guerreiro
 local Guerreiro = {}
 
@@ -102,19 +107,39 @@ function main()
 end
 
 main()
-Explicação:
-O projeto define três classes: Guerreiro, Mago e Curandeiro. Cada classe tem seus próprios atributos e métodos.
+```
 
-A função main cria objetos das três classes e simula uma batalha entre eles.
 
-Durante a batalha, os guerreiros atacam uns aos outros, os magos lançam magias e os curandeiros curam aliados.
 
-A batalha continua até que um dos guerreiros tenha sua vida reduzida a zero.
+#### **Explicação:**
 
-O vencedor da batalha é impresso na tela.
 
-Agradecimento Especial autor e apoio:
+
+- O projeto define três classes: **Guerreiro**, **Mago** e **Curandeiro**. Cada classe tem seus próprios atributos e métodos.
+
+  
+
+- A função `main` cria objetos das três classes e simula uma batalha entre eles.
+
+  
+
+- Durante a batalha, os guerreiros atacam uns aos outros, os magos lançam magias e os curandeiros curam aliados.
+
+  
+
+- A batalha continua até que um dos guerreiros tenha sua vida reduzida a zero.
+
+  
+
+- O vencedor da batalha é impresso na tela.
+
+
+
+
+
+  Agradecimento Especial autor e apoio:
 
 o gênio experiente dinossauro super habilidoso,
 
 https://github.com/VagnerBellacosa
+
